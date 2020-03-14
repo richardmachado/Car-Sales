@@ -16,7 +16,10 @@ const AdditionalFeatures = () => {
           ))}
         </ol>
       ) : (
+        <div>
         <p>Nice looking car!</p>
+        <p>Visit our  dealership for items not listed here</p>
+        </div>
       )}
     </div>
   );

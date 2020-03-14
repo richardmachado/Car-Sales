@@ -9,7 +9,7 @@ const AddedFeatures = props => {
 
   return (
     <div className="content">
-      <h6>Added features:</h6>
+      <h6>Additional features:</h6>
       {car.features.length ? (
         <ol type="1">
           {car.features.map(item => (

@@ -35,10 +35,11 @@ body {
   }
 }
 .button {
-  background: hotpink;
+  background: blue;
   border: 1px solid transparent;
   color: white;
   margin-right: 1em;
+  margin-bottom: 1em;
   padding: .25em .75em;
   transition: all .25s ease-in;
   &:hover {
